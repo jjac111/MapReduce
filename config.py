@@ -13,6 +13,6 @@ fail_prob_reduce = 0.0
 
 fail_prob_coordinator = 0.0
 
-fail_prob_partition = 0.0
+fail_prob_partition = 0.01
 
 text_lines = 25

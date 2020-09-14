@@ -27,14 +27,14 @@ def map(to_map, id, states, locks):
             dictionary[word] = dictionary.get(word, 0) + 1
 
     try:
-        partition_store(dictionary, locks)
+        partition_store(dictionary, locks, id)
 
     except Exception as e:
-        raise e
+        return
     states[id] = True
 
 
-def partition_store(dictionary, locks):
+def partition_store(dictionary, locks, id):
     if random.uniform(0, 1) <= fail_prob_partition:
         print(f'Map node #{id} failed during partitioning!')
         raise Exception

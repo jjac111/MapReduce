@@ -5,7 +5,6 @@ from config import nodes_map, text_directory
 from utils import clear_map, not_dead
 from map import map
 
-
 def start_map():
     files = os.listdir(text_directory)
     file_groups = array_split(files, nodes_map)
@@ -31,3 +30,5 @@ def start_map():
         print('Restarting mapping tasks.\n')
 
     print('Mapping finished.\n')
+
+
