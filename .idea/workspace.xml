@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a78ea5f-856f-4586-9fb0-65eab146f2db" name="Default Changelist" comment="" />
+    <list default="true" id="9a78ea5f-856f-4586-9fb0-65eab146f2db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordinator.py" beforeDir="false" afterPath="$PROJECT_DIR$/coordinator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/a" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/b" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/c" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/d" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/e" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/f" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/g" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/g" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/h" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/i" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/j" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/j" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/k" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/k" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/l" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/l" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/m" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/n" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/n" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/o" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/p" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/q" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/q" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/r" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/r" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/s" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/t" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/u" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/u" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/v" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/v" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/w" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/w" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/y" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/y" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapped/z" beforeDir="false" afterPath="$PROJECT_DIR$/mapped/z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/1" beforeDir="false" afterPath="$PROJECT_DIR$/reduced/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/2" beforeDir="false" afterPath="$PROJECT_DIR$/reduced/2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/3" beforeDir="false" afterPath="$PROJECT_DIR$/reduced/3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/4" beforeDir="false" afterPath="$PROJECT_DIR$/reduced/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduced/9" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +153,8 @@
       <updated>1599749931528</updated>
       <workItem from="1599749934665" duration="1122000" />
       <workItem from="1599841560335" duration="41628000" />
+      <workItem from="1600292494795" duration="2189000" />
+      <workItem from="1600351024215" duration="68000" />
     </task>
     <servers />
   </component>
@@ -123,22 +174,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599847424260" />
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1600104479879">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1600294703231">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600104479879" />
-    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1600104479879">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600294703231" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1600294703230">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600104479879" />
-    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1600104479879">
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600294703230" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1600294703230">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600104479879" />
-    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1600104479879">
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600294703230" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1600294703230">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600104479879" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600294703230" />
     <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1600104479879">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -159,10 +210,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599841614841" />
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1599841561905">
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1600351032250">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1599841561905" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600351032250" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600096063639">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -170,5 +221,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MapReduce$Python.coverage" NAME="Coordinator Coverage Results" MODIFIED="1600104467999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MapReduce$Coordinator.coverage" NAME="Coordinator Coverage Results" MODIFIED="1600294630714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

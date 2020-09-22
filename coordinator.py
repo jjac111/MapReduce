@@ -2,6 +2,8 @@ import time
 from start_map import start_map
 from start_reduce import start_reduce
 from utils import clear, try_fail, split_text, collect
+from pickle import load
+
 
 start_time = time.time()
 
